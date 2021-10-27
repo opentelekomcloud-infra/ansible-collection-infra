@@ -1,0 +1,11 @@
+ansible-core
+ansible-lint[yamllint]
+pycodestyle==2.6.0
+flake8==3.8.4
+pylint
+voluptuous
+yamllint
+rstcheck
+ruamel.yaml
+openstacksdk
+otcextensions>=0.10.0
