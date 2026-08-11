@@ -1,0 +1,4 @@
+This file exists only to trigger a CI run so we can confirm that the
+eco2 tenant reports an eco2/check status on this repository before the
+branch-protection template is switched from eco/check to eco2/check.
+It is not intended to be merged.
